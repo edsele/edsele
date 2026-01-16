@@ -19,19 +19,20 @@ I am actively transitioning into a **Data Analyst / Analytics role** within tech
 
 ---
 
-## 🚧 Projects (In Progress)
-I am currently building a portfolio of data analysis projects focused on **real-world business use cases**, including:
+## 📂 Projects 
+## 🧮 Data Analyst Projects
 
-- Sales and revenue analysis
-- Operational KPI dashboards
-- Customer behavior and retention analysis
-- SQL-based data exploration projects
+| Project | Description | Tools | Link |
+|--------|-------------|-------|------|
+| Retail Sales Performance Analysis | Analyze retail sales trends & department performance | SQL, Python, Power BI | [Repo](https://github.com/edsele/retail-sales-performance-analysis) |
 
-Each project will include:
-- Clear business objectives
-- Clean, well-documented analysis
-- Visualizations and dashboards
-- Actionable insights and conclusions
+---
+
+## 💻 Software Engineering Projects 
+
+| Project | Description | Tools | Link |
+|--------|-------------|-------|------|
+| Coming Soon | Projects under development | - | - |
 
 📌 *Projects will be added here as they are completed.*
 
@@ -51,6 +52,7 @@ Each project will include:
 <!--- **Email:** [Your Email]-->
 
 ⭐ *This GitHub will be updated regularly as new projects are completed.*
+
 
 <!--
 **edsele/edsele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
