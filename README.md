@@ -24,7 +24,7 @@ I am actively transitioning into a **Data Analyst / Analytics role** within tech
 
 | Project | Description | Tools | Link |
 |--------|-------------|-------|------|
-| Retail Sales Performance Analysis | Analyze retail sales trends & department performance | SQL, Python, Power BI | [Repo](https://github.com/edsele/retail-sales-performance-analysis) |
+| Retail Sales Performance Analysis (In Progress) | Analyze retail sales trends & department performance | SQL, Python, Power BI | [Repo](https://github.com/edsele/retail-sales-performance-analysis) |
 
 ---
 
